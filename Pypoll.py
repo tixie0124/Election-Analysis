@@ -12,6 +12,10 @@ total_votes = 0
 #adding a new column to reference candidate name
 candidate_options = []
 
+#create a dictionary to store dandicate vote counts
+
+candidate_votes = {}
+
 #open the election results and read the file
 with open(file_to_load) as election_data:
 
@@ -37,7 +41,17 @@ with open(file_to_load) as election_data:
 
             candidate_options.append(candidate_name)
 
-print(candidate_options)
+
+               #creat a key to track the vote count for each candidate
+
+            candidate_votes[candidate_name] = 0
+
+       #count the number of votes for each candidate name
+
+       candidate_votes[candidate_name] += 1
+
+
+print(candidate_votes)
 
 #close the file.
 
