@@ -50,8 +50,18 @@ with open(file_to_load) as election_data:
 
        candidate_votes[candidate_name] += 1
 
+    #to calculate the percetage of votes each candidate received
+    for candidate_name in candidate_votes:
 
-print(candidate_votes)
+        #to retrieve vote count for each candidate
+        votes = candidate_votes[candidate_name]
+
+        # calculate the percentage of votes.
+        vote_percentage = (votes / total_votes) * 100
+
+        # print the candidate name and the percentage of votes
+
+        print(f"{candidate_name}: received {vote_percentage:.2f}% of the vote.")
 
 #close the file.
 
