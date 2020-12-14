@@ -14,3 +14,6 @@ with the largest number of votes and the winning candidates overall.
  Diana Degette received a total of 272,892 votes, accounting for 73.8% of the total votes.
  Rayon Anthony Doane received a total of 11,606 votes, accounting for 3.1% of the total votes.
 * Diana Degette has won the election, with 272,892 received, which is 73.8% of the total votes.
+
+## Election Audit Summary
+This script can be expanded to include more counties and more candidates. With modification, it can calculate and indicate the number of votes each candidate received in each county, as well as the percentage.  
