@@ -5,12 +5,12 @@ the number of votes each candidates receives, and the percentages of votes of th
 with the largest number of votes and the winning candidates overall.
 
 ## Election Audit Results
-*The results shows that in this congressional election, a total of 369,711 votes were casted.
-*Jefferson county has 38,855 of votes casted, 10.5% of the total votes casted. 
+* The results shows that in this congressional election, a total of 369,711 votes were casted.
+* Jefferson county has 38,855 of votes casted, 10.5% of the total votes casted. 
  Denver county has a total of 306,055 votes casted, accounting for 73.8% of the total votes. 
  Arapahoe county, with a total of 11,606 casted, accounts for 3.1% of the total votes.
-*Which county had the largest number of votes? Denver county has the largest number of votes, with a total of 306,055 votes casted, 73.8% of the total votes.
-*Charles Casper Stockham received a total of 85,213 votes, or 23% of the total votes. 
+* Which county had the largest number of votes? Denver county has the largest number of votes, with a total of 306,055 votes casted, 73.8% of the total votes.
+* Charles Casper Stockham received a total of 85,213 votes, or 23% of the total votes. 
  Diana Degette received a total of 272,892 votes, accounting for 73.8% of the total votes.
  Rayon Anthony Doane received a total of 11,606 votes, accounting for 3.1% of the total votes.
-*Diana Degette has won the election, with 272,892 received, which is 73.8% of the total votes.
+* Diana Degette has won the election, with 272,892 received, which is 73.8% of the total votes.
